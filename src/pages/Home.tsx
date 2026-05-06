@@ -33,7 +33,7 @@ export const Home = () => {
               Limited Edition
             </div>
             <h1 className="text-6xl md:text-8xl font-serif font-bold leading-[1.1] text-brand-cherry">
-              Curated Second-Hand, Reimagined.
+              Retro & Ethical
             </h1>
             <p className="text-brand-text text-lg opacity-80 mx-auto max-w-[500px]">
               A hand-picked collection of timeless vintage gems and contemporary pre-loved pieces for the conscious wardrobe.
